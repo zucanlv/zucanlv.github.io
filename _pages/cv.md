@@ -21,8 +21,10 @@ Work experience
 Skills
 ======
 * C/Python/Java
-* Machine Learning(23/195)
-* Deep Learning(0/?)
+* Machine Learning(25/195)
+  * Maybe this will be delayed
+* Deep Learning(0/10)
+  * I am striving to accomplish before 12.20
 
 Publications
 ======
