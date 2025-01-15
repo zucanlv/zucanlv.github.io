@@ -18,14 +18,14 @@ Work experience
 
 * 2024.9-Now:Research Intern
 
-Skills
+<!-- Skills
 ======
 
 * C/Python/Java
 * Machine Learning(25/195)
   * Maybe this will be delayed
 * Deep Learning(1/10)
-  * I am striving to accomplish it mainly between 1.15-1.20 because of my final exams in school.
+  * I am striving to accomplish it mainly between 1.15-1.20 because of my final exams in school. -->
 
 Publications
 ============
