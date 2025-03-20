@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zucan Lv"
 title_separator          : "-"
 name                     : &name "Zucan Lv"
 description              : &description "A student majoring in CS @USTC"
@@ -21,8 +21,8 @@ repository               : "zucanlv/zucanlv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo1.png"
-  name             : "Zucan Lv(吕祖灿)"
+  avatar           : "profile.png"
+  name             : "Zucan Lv (吕祖灿)"
   pronouns         : # example: "she/her"  
   bio              : "A second year student majoring in CS @USTC"
   location         : "Hefei,China"
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : zucan_lv
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -130,7 +130,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : zucan_lv
 facebook:
   username               :
   app_id                 :

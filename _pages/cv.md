@@ -6,9 +6,14 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+
+
 {% include base_path %}
 
-Education
+<embed src="../files/ZucanLv_CV _20250320.pdf" width="100%" height="600px" type="application/pdf">
+
+<!-- Education
 =========
 
 * B.E. in CS,University of Science and Technology of China(USTC),2023-Now
@@ -16,7 +21,7 @@ Education
 Work experience
 ===============
 
-* 2024.9-Now:Research Intern
+* 2024.9-Now:Research Intern  -->
 
 <!-- Skills
 ======
@@ -27,10 +32,10 @@ Work experience
 * Deep Learning(1/10)
   * I am striving to accomplish it mainly between 1.15-1.20 because of my final exams in school. -->
 
-Publications
+<!-- Publications
 ============
 
-  I am striving for it!
+  I am striving for it! -->
 
 <!-- Talks
 ======
