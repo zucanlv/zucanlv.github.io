@@ -36,9 +36,11 @@ redirect_from:
 </div>
 
 
-<!-- ## 🎖️Scholarships and Honors
-+ 
-+ Freshman Scholarship of USTC -->
+## 🎖️Scholarships and Honors
++ Member of the Hua Xia Talent Program in Computer Science and Technology
++ 2024 USTC Outstanding Student Scholarship (Gold Award)
++ 2024 Scholarship for the Hua Xia Talent Program in Computer Science and Technology
++ 2023 USTC Outstanding Freshman Scholarship
 
 
 
