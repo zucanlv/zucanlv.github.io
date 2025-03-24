@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="../files/ZucanLv_CV _20250320.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="../files/ZucanLv_CV.pdf" width="100%" height="600px" type="application/pdf">
 
 <!-- Education
 =========

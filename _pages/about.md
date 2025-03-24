@@ -28,7 +28,7 @@ redirect_from:
 </style>
 
 <div class="container">
-  <p>My name is Zucan Lv ( 吕祖灿 ), a 2nd-year undergraduate student majoring in CS @USTC. I'm currently learning Multi-agent System and Deep Learning.</p>
+  <p>I am Zucan Lv ( 吕祖灿 ), a second-year undergraduate student majoring in CS @USTC. My current research interests lie in <strong>coding/computer-use agents</strong> and <strong>multi-agents systems</strong>. Additionally, I am eager to explore embodied AI, though I am still new to the field.</p>
   <div class="image-container">
     <img src="../images/ustc_flag.jpg" alt="USTC Flag" class="flag">
     <img src="../images/name_sign2.png" alt="Name Signature" class="flag">
